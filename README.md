@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 I'm Vedant Ganesh Badukale</h1>
-<h3 align="center">IIIT ECE undergrate , Interested in python data science development</h3>
+<h3 align="center">IIIT ECE undergrate , Interested in Data Analytics & IoT </h3>
 
 - 💬 Ask me about **Numpy, pandas, Matplotlib, Iot, Machine Learning**
 
