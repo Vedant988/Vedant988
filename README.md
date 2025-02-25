@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 I'm Vedant Ganesh Badukale</h1>
-<h3 align="center">IIIT ECE undergrate , Interested in Data Analytics & IoT </h3>
-
-- 💬 Ask me about **Numpy, pandas, Matplotlib, Iot, Machine Learning**
+<h3 align="center">IIIT undergrate , Interested in Artificial Intelligence and Machine learning with IoT</h3>
 
 - 📫 How to reach me **vedantbadukale@gmail.com**
 
