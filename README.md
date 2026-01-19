@@ -11,11 +11,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 ECE @ IIIT Nagpur `2027`
-- 🌐 Google Developer Group Core Member 
-- ⚙️ Tech Stack: `Python`, `C++`, `MATLAB`, `TensorFlow`, `PyTorch`, `OpenCV`, `FastAPI`, `Flask`, `Scikit-Learn`, `NumPy`, `Pandas`
-- 🔍 Working on: Generative AI, RAG Pipelines, Computer Vision, Embedded Systems
-- 🧠 Learning: LLM Internals, Transformers, SQL Optimization, Edge AI
+🎓 ECE @ IIIT Nagpur 2027
+🧪 TIHAN–IIT Hyderabad Intern (AI & Computer Vision / Precision Farming)
+🌐 Google Developer Group (GDG) Core Member
+⚙️ Tech Stack: Python, C++, MATLAB, TensorFlow, PyTorch, OpenCV, FastAPI, Flask, Scikit-Learn, NumPy, Pandas
+🔍 Working on: Generative AI, RAG Pipelines, Computer Vision, Embedded Systems, Grounding DINO, Ultralytics YOLO (Core)
+🧠 Learning: LLM Internals, Transformers, SQL Optimization, Edge AI
 
 ---
 
